@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=MusicTesterV3
+comment0.text=\n\ Tests\ the\ Music\ Class\ with\ sorting\ and\ searching.\n\n\ @author\ Johann\ Mansfield\n\ @version\ 3/2/2025\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=songs
+comment2.target=void\ printMusic(Music[])
+comment3.params=songs
+comment3.target=void\ insertionSortByTitle(Music[])
+comment4.params=songs
+comment4.target=void\ selectionSortByYear(Music[])
+comment5.params=songs\ left\ right
+comment5.target=void\ mergeSortByArtist(Music[],\ int,\ int)
+comment6.params=songs\ left\ mid\ right
+comment6.target=void\ merge(Music[],\ int,\ int,\ int)
+comment7.params=songs\ title
+comment7.target=void\ binarySearchByTitle(Music[],\ java.lang.String)
+comment8.params=songs\ year
+comment8.target=void\ binarySearchByYear(Music[],\ int)
+comment9.params=songs\ artist
+comment9.target=void\ binarySearchByArtist(Music[],\ java.lang.String)
+numComments=10
